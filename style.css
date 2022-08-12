@@ -64,5 +64,9 @@ footer {
 
 
 main form {
-  width: 60% !important;
+  width: 675px;
+}
+
+.form-check {
+  margin: 0 3px;
 }

@@ -115,7 +115,7 @@ describe('Trybewarts', () => {
     });
   });
 
-  describe('5 - Adicione um formulário no corpo da página', () => {
+  describe.only('5 - Adicione um formulário no corpo da página', () => {
     it('Existe um formulário com o id `evaluation-form`', () => {
       cy.get(EVALUATION_FORM).should('exist');
     });
