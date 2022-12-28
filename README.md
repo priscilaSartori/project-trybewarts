@@ -16,7 +16,7 @@ Neste projeto, você vai desenvolver uma página de formulário da Escola de Mag
 
   1. Clone o repositório
 
-  - Use o comando: `git clone git@github.com:priscilaSartori/project-tryunfo.git`.
+  - Use o comando: `git clone git@github.com:priscilaSartori/project-trybewarts.git`.
   - Entre na pasta do repositório que você acabou de clonar:
     - `cd project-tryunfo`
 
@@ -45,10 +45,6 @@ npm run lint:styles
 Se a análise do `ESLint` encontrar problemas no seu código, tais problemas serão mostrados no seu terminal. Se não houver problema no seu código, nada será impresso no seu terminal.
 
 Você pode também instalar o plugin do `ESLint` no `VSCode`. Para isso, basta fazer o download do [plugin `ESLint`](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) e instalá-lo.
-
-Em caso de dúvidas, confira o material na plataforma sobre [ESLint e Stylelint](https://app.betrybe.com/course/real-life-engineer/eslint).
-
-⚠️ **PULL REQUESTS COM ISSUES NO LINTER NÃO SERÃO AVALIADAS. ATENTE-SE PARA RESOLVÊ-LAS ANTES DE FINALIZAR O DESENVOLVIMENTO!** ⚠️
 
 </details>
 
